@@ -8,6 +8,9 @@ const SettingPage = () => {
         <h1 className="text-center text-2xl font-bold">Settings</h1>
         <div className="flex gap-2">
           <SettingSideBar />
+
+          {/*  */}
+          <div className=""></div>
         </div>
       </div>
     </div>
